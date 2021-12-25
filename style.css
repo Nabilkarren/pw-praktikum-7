@@ -1,0 +1,32 @@
+.form-select {
+  margin: 10px;
+}
+
+.container {
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.col {
+  text-align: center;
+}
+
+#judul {
+  font-family: Gilroy;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+}
+#kalimat {
+  font-family: Gilroy;
+}
+
+.dark-mode {
+  background-color: #191919;
+  color: #fff;
+}
+
+body {
+  height: 100vh;
+}
